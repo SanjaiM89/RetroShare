@@ -31,19 +31,6 @@ Hosting           Vercel (frontend)
 
 ---
 
-Project Structure
-
-retroshare/
-├── functions/               # Node.js backend with Firebase Functions
-│   └── index.js             # Firebase Functions entry point
-├── frontend/                # Static frontend files
-│   ├── index.html           # Landing page
-│   ├── upload.html          # File upload page
-│   └── myfiles.html         # User file dashboard
-├── firebase.json            # Firebase configuration
-├── firestore.rules          # Firestore security rules
-├── storage.rules            # Cloud Storage security rules
-└── README.md                # Project documentation
 
 ---
 
